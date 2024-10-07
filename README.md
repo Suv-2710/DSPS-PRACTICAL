@@ -1,2 +1,2 @@
 # DSPS-PRACTICAL
-Implementation of the concept linear search and array
+Implementation of the concept of data structure and problem solving using c++
